@@ -1,4 +1,4 @@
-# Getting Started Funds-Tutorial-Boilerplate
+# Getting Started CrowdFund-Tutorial-Boilerplate
 
 This project was created as a boilerplate to assist with The [Crowdfund-Tutorial](http://place-link-here).
 
