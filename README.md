@@ -1,6 +1,6 @@
-# Getting Started Funds-Project-Boilerplate
+# Getting Started Funds-Tutorial-Boilerplate
 
-This project was created as a boilerplate to assist with The [Crowdfunding-Tutorial-project](http://place-link-here).
+This project was created as a boilerplate to assist with The [Crowdfund-Tutorial](http://place-link-here).
 
 ## Requirements
 
@@ -48,7 +48,6 @@ brownie run deploy.py
 ```bash
 brownie test tests/test_OnGanache.py
 ```
-### ScreenShots....
 
 
 ## Testing Contract On Celo Alfajores Network
@@ -75,4 +74,3 @@ brownie run deploy.py --network alfajores
 ```bash
 brownie test tests/test_OnAlfajores.py --network alfajores
 ```
-### ScreenShots....
