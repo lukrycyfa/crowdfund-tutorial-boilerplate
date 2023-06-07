@@ -1,6 +1,6 @@
-# Getting Started CrowdFund-Tutorial-Boilerplate
+# Getting Started With CrowdFund-Tutorial-Boilerplate
 
-This project was created as a boilerplate to assist with The [Crowdfund-Tutorial](http://place-link-here).
+- This project was created as a boilerplate to assist with The [Crowdfund-Tutorial](http://place-link-here).
 
 ## Requirements
 
@@ -18,7 +18,7 @@ npm install ganache --global
 ### Clone The Boilerplate From This Repo
 
 ```bash
-git clone https://github.com/lukrycyfa/crowdfund-tutorial-boilerplate
+git clone https://github.com/lukrycyfa/crowdfund-tutorial-boilerplate.git
 ```
 ### Cd Into The Root Directory
 
