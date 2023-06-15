@@ -1,6 +1,6 @@
 # Getting Started With CrowdFund-Tutorial-Boilerplate
 
-- This project was created as a boilerplate to assist with The [Crowdfund-Tutorial](http://place-link-here).
+- This project was created as a template for This [Crowdfund-Tutorial](https://github.com/lukrycyfa/crowdfund-tutorial-main).
 
 ## Requirements
 
@@ -25,12 +25,12 @@ git clone https://github.com/lukrycyfa/crowdfund-tutorial-boilerplate.git
 ```bash
 pip install -r requirements.txt
 ```
-### Install Contract Dependencies
+### Install The Contract Dependencies
 
 ```bash
 brownie pm install OpenZeppelin/openzeppelin-contracts@4.8.2
 ```
-## Testing Contract On Ganache Local Network
+## Testing The Contract On Ganache Local Network
 
 ### Start Ganache-cli On A Separate Terminal
 
@@ -50,7 +50,7 @@ brownie test tests/test_OnGanache.py
 ```
 
 
-## Testing Contract On Celo Alfajores Network
+## Testing The Contract On Celo Alfajores Testnet
 
 ### Add The Alfajores Network To Brownie
 
